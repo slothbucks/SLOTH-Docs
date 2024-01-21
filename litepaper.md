@@ -30,4 +30,8 @@ $SLOTH represents a novel financial instrument for the investor who values the m
 
 ---
 
-**Disclaimer**: This document is a conceptual framework and does not guarantee financial returns. Cryptocurrency investments are subject to market risks. $SLOTH endeavors to mitigate risk but does not claim its absolute elimination. Investors are advised to conduct their own research before engaging with any cryptocurrency initiatives.
+# Disclaimer
+
+## No Investment Advice
+
+The information provided on this website does not constitute investment advice, financial advice, trading advice, or any other sort of advice, and you should not treat any of the content as such. SlothBucks does not recommend that any cryptocurrency should be bought, sold, or held by you. Conduct your own due diligence and consult your financial advisor before making any investment decisions.
