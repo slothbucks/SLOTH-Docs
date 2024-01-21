@@ -32,6 +32,10 @@ $SLOTH represents a novel financial instrument for the investor who values the m
 
 # Disclaimer
 
+## You may not use SlothBucks or participate in the SlothBucks Ecosystem if you are a member of a banned jurisdiction
+
+By participating in the SlothBucks ecosystem or using any SlothBucks products, you agree that you are fully aware of and understand that you are not eligible to purchase any SlothBucks tokens or participate in the SlothBucks ecosystem if you are a citizen, resident (tax or otherwise) or green card holder of the United States of America or a citizen or resident of the People's Republic of China or the Republic of Singapore.
+
 ## No Investment Advice
 
 The information provided on this website does not constitute investment advice, financial advice, trading advice, or any other sort of advice, and you should not treat any of the content as such. SlothBucks does not recommend that any cryptocurrency should be bought, sold, or held by you. Conduct your own due diligence and consult your financial advisor before making any investment decisions.
