@@ -2,9 +2,20 @@
 description: >-
   “Compound interest is the eighth wonder of the world. He who understands it,
   earns it … he who doesn’t … pays it.” - Albert Einstein
+layout:
+  title:
+    visible: false
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
 ---
 
-# SlothBucks:
+# $SLOTH Litepaper
 
 ## $SLOTH Litepaper
 

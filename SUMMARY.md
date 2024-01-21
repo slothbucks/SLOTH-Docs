@@ -1,3 +1,3 @@
 # Table of contents
 
-* [SlothBucks:](README.md)
+* [$SLOTH Litepaper](README.md)
