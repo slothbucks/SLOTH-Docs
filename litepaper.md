@@ -1,4 +1,4 @@
-# SlothBucks ($SLOTH) Litepaper
+# $SLOTH Litepaper
 
 ## Abstract
 
